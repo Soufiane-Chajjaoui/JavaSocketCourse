@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.Scanner;
 
-public class Client {
+public class SingleClient {
 	public static void main(String[] args) throws UnknownHostException, IOException {
 		Socket socket = new Socket("localhost" , 1234);
 		OutputStream os = socket.getOutputStream();
