@@ -21,3 +21,8 @@ Java supports both TCP and UDP sockets. Here's a brief overview:
 - **DatagramSocket Class:**
   - Used for connectionless communication.
   - Datagram packets can be sent and received using `DatagramSocket` class.
+
+# Practice Exercises
+
+For practical exercises related to Java sockets, check out the [Exercises branch](../../tree/Exercices_pratique).
+ 
